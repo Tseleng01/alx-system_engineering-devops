@@ -1,2 +1,2 @@
 #!/bit/bash
-tail -/etc/passwd
+head -/etc/passwd
