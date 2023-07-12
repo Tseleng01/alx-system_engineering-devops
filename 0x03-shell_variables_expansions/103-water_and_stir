@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%O\n" $(( $5#$|ech
