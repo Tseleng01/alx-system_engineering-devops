@@ -1,2 +1,2 @@
 #!/bin/bash
-js
+find. -type d -not -name '.' | WC -l
